@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "as",
+      "gender": "kash",
+      "dept": "asa",
+      "role": "Marketing",
+      "salary": "1",
+      "id": 1
+    },
+    {
+      "name": "assa",
+      "gender": "asas",
+      "dept": "asa",
+      "role": "IT",
+      "salary": "2",
+      "id": 2
+    },
+    {
+      "name": "assaasa",
+      "gender": "asasasa",
+      "dept": "asaasas",
+      "role": "Marketing",
+      "salary": "3",
+      "id": 3
+    }
+  ]
+}
